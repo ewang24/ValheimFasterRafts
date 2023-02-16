@@ -1,0 +1,14 @@
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\ValheimFasterRast.dll
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\ValheimFasterRast.pdb
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\0Harmony.dll
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\assembly_valheim.dll
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\BepInEx.dll
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\UnityEngine.CoreModule.dll
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\UnityEngine.dll
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\obj\Debug\ValheimFasterRaft.csprojAssemblyReference.cache
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\obj\Debug\ValheimFasterRaft.csproj.CoreCompileInputs.cache
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\obj\Debug\ValheimFasterRaft.csproj.CopyComplete
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\obj\Debug\ValheimFasterRast.dll
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\obj\Debug\ValheimFasterRast.pdb
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\UnityEngine.UI.dll
+P:\Documents\GitHub\valheimFasterRaft\ValheimFasterRast\ValheimFasterRast\bin\Debug\FasterBoats.dll
